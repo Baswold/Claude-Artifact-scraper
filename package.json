@@ -1,0 +1,35 @@
+{
+  "name": "claude-artifacts-scraper",
+  "version": "1.0.0",
+  "description": "A robust web scraper that finds and collects Claude artifacts from public URLs",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "node test.js",
+    "update": "node scraper.js --update-only",
+    "clean": "rm -rf screenshots/*.png scraped_artifacts.json feed_data.json"
+  },
+  "keywords": [
+    "claude",
+    "artifacts",
+    "scraper",
+    "web-scraping",
+    "puppeteer"
+  ],
+  "author": "Claude Artifacts Scraper",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "local"
+  },
+  "bugs": {
+    "url": "local"
+  },
+  "homepage": "local",
+  "dependencies": {
+    "puppeteer": "^24.17.1"
+  }
+}

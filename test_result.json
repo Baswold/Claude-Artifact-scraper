@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ce4c2aae-ca69-467d-96e3-ab7195ffb930",
+    "url": "https://claude.ai/public/artifacts/ce4c2aae-ca69-467d-96e3-ab7195ffb930",
+    "title": "Just a moment...",
+    "description": "No description available",
+    "content": "<div class=\"main-content\"><h1 class=\"zone-name-title h1\"><img src=\"/favicon.ico\" class=\"heading-favicon\" alt=\"Icon for claude.ai\">claude.ai</h1><p id=\"FGRYW5\" class=\"h2\">Verifying you are human. This may take a few seconds.</p><div id=\"LsMgo8\" style=\"display: none;\"></div><div id=\"jHZB4\" class=\"spacer loading-verifying\" style=\"display: block; visibility: visible;\"><div class=\"lds-ring\"><div></div><div></div><div></div><div></div></div></div><div id=\"gGeN3\" class=\"core-msg spacer\">claude.ai needs to review the security of your connection before proceeding.</div><div id=\"OiwZ5\" style=\"display: none;\"><div id=\"challenge-success-text\" class=\"h2\">Verification successful</div><div class=\"core-msg spacer\">Waiting for claude.ai to respond...</div></div><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div>",
+    "rawCode": "<div class=\"main-content\"><h1 class=\"zone-name-title h1\"><img src=\"/favicon.ico\" class=\"heading-favicon\" alt=\"Icon for claude.ai\">claude.ai</h1><p id=\"FGRYW5\" class=\"h2\">Verifying you are human. This may take a few seconds.</p><div id=\"LsMgo8\" style=\"display: none;\"></div><div id=\"jHZB4\" class=\"spacer loading-verifying\" style=\"display: block; visibility: visible;\"><div class=\"lds-ring\"><div></div><div></div><div></div><div></div></div></div><div id=\"gGeN3\" class=\"core-msg spacer\">claude.ai needs to review the security of your connection before proceeding.</div><div id=\"OiwZ5\" style=\"display: none;\"><div id=\"challenge-success-text\" class=\"h2\">Verification successful</div><div class=\"core-msg spacer\">Waiting for claude.ai to respond...</div></div><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div>",
+    "type": "html",
+    "language": "html",
+    "codeLength": 884,
+    "hasCode": false,
+    "scrapedAt": "2025-08-29T08:01:41.097Z",
+    "author": "Unknown",
+    "screenshot": "screenshots/ce4c2aae-ca69-467d-96e3-ab7195ffb930.png"
+  }
+]
